@@ -1,0 +1,59 @@
+  .cv{
+    color: white;
+
+
+  }
+
+  a{
+    color: #9D8C12;
+  }
+
+  body{
+    background-image: url("descarga2.jpg");
+    background-size: cover;
+    font-family:fantasy;
+  }
+
+  #texto1{
+    text-indent: 15px;
+    color: #FFE000;
+    background-image: url('descarga1.jpg');
+    background-size: cover;
+    opacity: 0.8;
+    /* background-color: #B3AE8B; */
+    margin-right: 30px;
+    float: left;
+  }
+
+  #texto2{
+    text-indent: 15px;
+    color: #FFE000;
+    background-image: url('descarga1.jpg');
+    background-size: cover;
+    opacity: 0.8;
+    margin-right: 30px;
+    float: left;
+  }
+
+  #texto3{
+    text-indent: 15px;
+    color: #FFE000;
+    background-image: url('descarga1.jpg');
+    background-size: cover;
+    opacity: 0.8;
+    float: left;
+  }
+
+  #foto1 #foto2 #foto3{
+    margin-left: 30px;
+    margin-top: 20px;
+    float: left;
+  }
+
+  .desplazamiento{
+    align-items: center;
+    opacity:  hover;
+  }
+  .clear{
+    clear: both;
+  }
